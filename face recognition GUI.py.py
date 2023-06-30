@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[5]:
-
-
 import cv2
 import dlib
 import tkinter as tk
@@ -270,9 +264,6 @@ btn_threshold.config(command=toggle_threshold)
 face_detection()
 
 window.mainloop()
-
-
-# In[ ]:
 
 
 
