@@ -264,7 +264,3 @@ btn_threshold.config(command=toggle_threshold)
 face_detection()
 
 window.mainloop()
-
-
-
-
